@@ -1,0 +1,4 @@
+ Hybrid:
+ 	Right arm, t=0.27
+ 	Left arm, t=0.555
+ 	Right arm, t=4.39

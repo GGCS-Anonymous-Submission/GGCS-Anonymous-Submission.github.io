@@ -1,0 +1,7 @@
+ Trajopt:
+ 	Left arm, t=0.275
+ 	Right arm, t=5.272
+ 
+ Hybrid:
+ 	Right arm, t=0.714
+ 	Left arm, t=4.381
